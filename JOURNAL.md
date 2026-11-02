@@ -16,7 +16,7 @@
 
 1. [2026-11-01: I began week 4 by thinking about what I should make. I looked through google, YouTube, and even asked AI. Finally, I decided to make myself a device that would tell me what the cat wanted to eat. Part](#2026-11-01-i-began-week-4-by-thinking-about-what-i-should-ma)
 2. [2026-11-01: On the next day, I ran the DRC after I double checked the schematic before I moved on. There were I believe 30+ errors with the schematic, so I had to find out why. Turns out I needed to block the oth](#2026-11-01-on-the-next-day-i-ran-the-drc-after-i-double-chec)
-3. [2026-11-01: The final stretch:](#2026-11-01-the-final-stretch)
+3. [2026-11-01: The final stretch: I just did all the journals on the last day  (sorry about that)](#2026-11-01-the-final-stretch-i-just-did-all-the-journals-on-)
 
 ## Design
 
@@ -66,11 +66,11 @@ On the next day, I ran the DRC after I double checked the schematic before I mov
 
 ![image](https://halflife.hackclub-assets.com/sessions/RAlwQ5Y0eZmx7cgE7lKrcU3xr38vjAYM/4212bfd8b5dc62880d293d59310159ff447fbba49aea65d9373bf3ad327dac35.png)
 
-### 2026-11-01: The final stretch:
+### 2026-11-01: The final stretch: I just did all the journals on the last day  (sorry about that)
 
 **7h**
 
-The final stretch:
+The final stretch: I just did all the journals on the last day  (sorry about that)
 After finishing the PCB layout, I added the "E.cut" thing around my device. I planned to have 5mm margins, so I changed it a little and then I started wiring. I began with the first layer where I routed the switches together and some of the ESP connectors. I then worked on the second layer where most of the work was done. In general, it was pretty much smooth sailing from there. I spent a considerate amount of time just writing text on it, but I finally decided to keep it simple. I was pretty content with the 3D model given the fact that it was my first time doing this type of project without much guidance. I exported the model using the plugin I installed in week 3's project and loaded it in into the JLCPCB to calculate the price. All in all, this was a learning experience, and I probably could've done better with the finish and obviously the time management. Definitely a cool skill set to have. Oh, and also, I had to ensure that the ESP was actually able to fit between the connectors
 
 ![image](https://halflife.hackclub-assets.com/sessions/RAlwQ5Y0eZmx7cgE7lKrcU3xr38vjAYM/11bf8d62e37190717f60550ba07c47b5ed8c763e9f8aba3dc4076d4ea576b745.png)
